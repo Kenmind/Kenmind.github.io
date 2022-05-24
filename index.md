@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+![header image](images/header.png)
 
-You can use the [editor on GitHub](https://github.com/Kenmind/Kenmind.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Weather Application
+This application is meant to give you a current weather update for any city covered by OpenWeatherMap API.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can install it through this link [Download Weather App](https://github.com/Kenmind/python-weather_application) to start checking weather forecasts on the go and through the press of a single button.
 
-### Markdown
+### Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Weather Application provides some cool features, some are;
 
-```markdown
-Syntax highlighted code block
+#### Current Time
+- Through the help of Timezone, we provide the current time for the city you are checking the weather forecast.
+![Current time image](images/time.png)
 
-# Header 1
-## Header 2
-### Header 3
+#### Error Message Display
+- The app displays an error message if the provided city cannot be accessed by the app
+![Error image](images/error.png)
 
-- Bulleted
-- List
+#### Variety of Details
+- The app shows a lot of details such as wind speed, sky condition, temperature etc
+![Full app](images/details.png)
 
-1. Numbered
-2. List
+### About
 
-**Bold** and _Italic_ and `Code` text
+This app was an inspiration from the inconvinience of visiting a city and finding an unexpected weather condition. To avoid getting stranded in a different city, we provide you with the current weather update before you can visit the city so that you can prepare yourself.
+_Developed in 2022_
 
-[Link](url) and ![Image](src)
-```
+This was developed by **Kennedy Kalaluka** [LinkedIn](https://www.linkedin.com/in/kennedykalaluka), [Github](https://github.com/Kenmind), [Twitter](https://www.twitter.com/Kennedy_Sibeso), [Facebook](https://www.facebook.com/kennedysimasiku.kalalukasibeso)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Video From The Sole Team Member
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kenmind/Kenmind.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
