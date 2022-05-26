@@ -15,9 +15,9 @@ Weather Application provides some cool features, some are;
 
 #### Error Message Display
 - The app displays an error message if the provided city cannot be accessed by the app
-![Error image](images/error.png)
+![Error image](images/error1.png)
 - The app also shows an error message if the city is found but no weather information found
-![Error image 1](images/error1.png)
+![Error image 1](images/error.png)
 
 #### Variety of Details
 - The app shows a lot of details such as wind speed, sky condition, temperature etc
